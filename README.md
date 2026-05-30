@@ -18,13 +18,6 @@ Landing page for **Gabriele Photography** — a boutique camera shop and print s
 - **Colors:** `#F5C400` yellow accent · `#111111` black · white background
 - **Aesthetic:** editorial camera journal — refined, authoritative, minimal
 
-## Usage
-
-No build step required. Open `index.html` directly in a browser. All pages use relative links and reference the shared `styles.css` and `script.js`.
-
-```
-open index.html
-```
 
 ## Structure
 
