@@ -1,6 +1,6 @@
 # Gabriele Photography
 
-Landing page for **Gabriele Photography** — a boutique camera shop and print studio located at 133 Hurontario Street, Collingwood, ON. Founded in 1989 by John Gabriele.
+Landing page for **Gabriele Photography**: A boutique camera shop and print studio located at 133 Hurontario Street, Collingwood, ON. Founded in 1989 by John Gabriele.
 
 ## Pages
 
